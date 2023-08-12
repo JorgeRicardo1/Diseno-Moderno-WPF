@@ -41,5 +41,10 @@ namespace Diseno_Moderno_WPF.Views
         {
             Application.Current.Shutdown();
         }
+
+        private void btnLogin_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
